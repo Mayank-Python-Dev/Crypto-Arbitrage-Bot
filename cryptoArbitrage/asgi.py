@@ -11,7 +11,7 @@ import os
 from channels.routing import ProtocolTypeRouter,URLRouter
 from channels.auth import AuthMiddlewareStack
 from django.core.asgi import get_asgi_application
-from core.consumers import BotConsumer,AppConsumer
+from core.consumers import BotConsumer,AppConsumer,ExchangeConsumer
 from django.urls import path
 
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "cryptoArbitrage.settings")
@@ -24,6 +24,7 @@ application= ProtocolTypeRouter({
         URLRouter([
             # path('ws/communicate/<room_code>',CommunicationConsumer.as_asgi()), 
             path("ws/exchangeInfo/<room_code>",AppConsumer.as_asgi()),
+            path("ws/getExchangeList/<room_code>",ExchangeConsumer.as_asgi()),
         ]
         )
     ),

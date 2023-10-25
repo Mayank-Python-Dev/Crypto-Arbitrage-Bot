@@ -5,6 +5,10 @@ from channels.generic.websocket import WebsocketConsumer
 from binance import ThreadedWebsocketManager
 from channels.layers import get_channel_layer
 from channels.generic.websocket import AsyncWebsocketConsumer
+from .models import (
+    CryptoCurrencyPair
+)
+from channels.db import database_sync_to_async
 
 """
 {
@@ -152,6 +156,8 @@ class AppConsumer(AsyncWebsocketConsumer):
     #         }
     #     ))
 
+    
+
     async def connect(self):
         self.room_name = self.scope['url_route']['kwargs']['room_code']
         self.room_group_name = 'room_%s' % self.room_name
@@ -212,3 +218,84 @@ class AppConsumer(AsyncWebsocketConsumer):
             'message': message
         }))
 
+
+# get exchange websocket
+class ExchangeConsumer(AsyncWebsocketConsumer):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.response = {}
+
+    # async def get_response(self,msg):
+    #     print(msg)
+    #     await self.send(text_data=json.dumps( 
+    #         {
+    #             "type":"connection_established",
+    #             "message":"you are connected now!",
+    #             "payload":{
+    #                 "response":"Hello World!",
+    #             }
+    #         }
+    #     ))
+
+    @database_sync_to_async
+    def get_exchange_list(self,pair):
+        return list(CryptoCurrencyPair.objects.filter(symbol__iexact = pair).values_list("exchange__name",flat=True))
+    
+    async def connect(self):
+        self.room_name = self.scope['url_route']['kwargs']['room_code']
+        self.room_group_name = 'room_%s' % self.room_name
+
+        await self.channel_layer.group_add(
+            self.room_group_name,
+            self.channel_name
+        )
+        await self.accept()
+        await self.send(text_data=json.dumps( 
+            {
+                "type":"connection_established",
+                "message":"you are connected now!",
+                "payload":{
+                    "response":{},
+                }
+            }
+        ))
+
+    async def disconnect(self, code):
+        await self.channel_layer.group_discard(
+            self.room_group_name,
+            self.channel_name
+        )
+
+    async def receive(self, text_data=None, bytes_data=None):
+        text_data_json = json.loads(text_data)
+        pair = text_data_json['pair']
+        # res = await database_sync_to_async(self.get_exchange_list(pair))()
+        # print(res)
+        response = await self.get_exchange_list(pair)
+        
+        # print(CryptoCurrencyPair.objects.filter(symbol__iexact = pair).values_list("exchange__name",flat=True))
+        await self.send(text_data=json.dumps( 
+                    {
+                        "type":"connection_established",
+                        "message":"you are connected now!",
+                        "payload":{
+                            "response":response
+                        }
+                    }
+                ))
+        # await self.send(text_data=json.dumps( 
+        #     {
+        #         "type":"connection_established",
+        #         "message":"you are connected now!",
+        #         "payload":{
+        #             "response":get_exchange_list,
+        #         }
+        #     }
+        # ))
+
+    async def send_message(self, event):
+        message = event['message']
+
+        await self.send(text_data=json.dumps({
+            'message': message
+        }))

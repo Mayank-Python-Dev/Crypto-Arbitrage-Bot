@@ -1198,3 +1198,357 @@ INFO - 2023-10-23 19:09:18,038 - /home/python-25/Desktop/crypto-arbitrage-bot/cr
 INFO - 2023-10-23 19:09:18,915 - Watching for file changes with StatReloader
 INFO - 2023-10-23 19:09:21,669 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/models.py changed, reloading.
 INFO - 2023-10-23 19:09:22,509 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:34:49,764 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:35:37,369 - WebSocket HANDSHAKING /ws/getExchangeList/ [127.0.0.1:46858]
+INFO - 2023-10-25 14:35:38,025 - WebSocket DISCONNECT /ws/getExchangeList/ [127.0.0.1:46858]
+INFO - 2023-10-25 14:35:47,457 - WebSocket HANDSHAKING /ws/getExchangeList [127.0.0.1:41204]
+INFO - 2023-10-25 14:35:48,036 - WebSocket DISCONNECT /ws/getExchangeList [127.0.0.1:41204]
+INFO - 2023-10-25 14:35:52,089 - WebSocket HANDSHAKING /ws/getExchangeList/ [127.0.0.1:51090]
+INFO - 2023-10-25 14:35:53,043 - WebSocket DISCONNECT /ws/getExchangeList/ [127.0.0.1:51090]
+INFO - 2023-10-25 14:35:57,266 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:36:00,107 - WebSocket HANDSHAKING /ws/getExchangeList/ [127.0.0.1:49748]
+INFO - 2023-10-25 14:36:00,762 - WebSocket DISCONNECT /ws/getExchangeList/ [127.0.0.1:49748]
+INFO - 2023-10-25 14:36:07,466 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/cryptoArbitrage/asgi.py changed, reloading.
+INFO - 2023-10-25 14:36:08,346 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:36:10,177 - WebSocket HANDSHAKING /ws/getExchangeList/ [127.0.0.1:48178]
+INFO - 2023-10-25 14:36:10,533 - WebSocket DISCONNECT /ws/getExchangeList/ [127.0.0.1:48178]
+INFO - 2023-10-25 14:36:54,018 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:36:54,790 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:37:02,873 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/cryptoArbitrage/asgi.py changed, reloading.
+INFO - 2023-10-25 14:37:03,986 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:37:07,406 - WebSocket HANDSHAKING /ws/getExchangeList/123 [127.0.0.1:60740]
+INFO - 2023-10-25 14:37:07,417 - WebSocket CONNECT /ws/getExchangeList/123 [127.0.0.1:60740]
+INFO - 2023-10-25 14:37:14,998 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/cryptoArbitrage/asgi.py changed, reloading.
+INFO - 2023-10-25 14:37:16,092 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:37:22,630 - WebSocket HANDSHAKING /ws/getExchangeList/123 [127.0.0.1:48356]
+INFO - 2023-10-25 14:37:22,640 - WebSocket CONNECT /ws/getExchangeList/123 [127.0.0.1:48356]
+INFO - 2023-10-25 14:37:32,657 - WebSocket DISCONNECT /ws/getExchangeList/123 [127.0.0.1:48356]
+INFO - 2023-10-25 14:38:04,739 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:38:05,548 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:38:15,007 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:38:15,891 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:38:20,061 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:38:20,900 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:38:27,276 - WebSocket HANDSHAKING /ws/getExchangeList/123 [127.0.0.1:36308]
+INFO - 2023-10-25 14:38:27,286 - WebSocket CONNECT /ws/getExchangeList/123 [127.0.0.1:36308]
+INFO - 2023-10-25 14:38:32,207 - WebSocket DISCONNECT /ws/getExchangeList/123 [127.0.0.1:36308]
+INFO - 2023-10-25 14:39:18,230 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:39:19,105 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:39:22,770 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:39:23,606 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:39:27,229 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:39:28,154 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:39:31,827 - WebSocket HANDSHAKING /ws/getExchangeList/123 [127.0.0.1:51148]
+INFO - 2023-10-25 14:39:31,830 - WebSocket CONNECT /ws/getExchangeList/123 [127.0.0.1:51148]
+INFO - 2023-10-25 14:39:32,591 - WebSocket DISCONNECT /ws/getExchangeList/123 [127.0.0.1:51148]
+INFO - 2023-10-25 14:39:49,993 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/models.py changed, reloading.
+INFO - 2023-10-25 14:39:51,013 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:40:04,752 - [32mHTTP GET /admin/ 302 [0.11, 127.0.0.1:37976][0m
+INFO - 2023-10-25 14:40:04,824 - [mHTTP GET /admin/login/?next=/admin/ 200 [0.07, 127.0.0.1:37976][0m
+INFO - 2023-10-25 14:40:04,889 - [mHTTP GET /static/admin/css/base.css 200 [0.04, 127.0.0.1:37976][0m
+INFO - 2023-10-25 14:40:04,891 - [mHTTP GET /static/admin/css/responsive.css 200 [0.03, 127.0.0.1:37986][0m
+INFO - 2023-10-25 14:40:04,901 - [36mHTTP GET /static/admin/css/dark_mode.css 304 [0.03, 127.0.0.1:38002][0m
+INFO - 2023-10-25 14:40:04,908 - [36mHTTP GET /static/admin/css/nav_sidebar.css 304 [0.03, 127.0.0.1:38018][0m
+INFO - 2023-10-25 14:40:04,909 - [36mHTTP GET /static/admin/css/login.css 304 [0.03, 127.0.0.1:38024][0m
+INFO - 2023-10-25 14:40:05,152 - [36mHTTP GET /static/admin/js/theme.js 304 [0.00, 127.0.0.1:38024][0m
+INFO - 2023-10-25 14:40:05,153 - [36mHTTP GET /static/admin/js/nav_sidebar.js 304 [0.00, 127.0.0.1:38018][0m
+WARNING - 2023-10-25 14:40:05,261 - Not Found: /favicon.ico
+WARNING - 2023-10-25 14:40:05,262 - [33mHTTP GET /favicon.ico 404 [0.03, 127.0.0.1:38018][0m
+INFO - 2023-10-25 14:40:08,501 - [32mHTTP POST /admin/login/?next=/admin/ 302 [0.57, 127.0.0.1:38018][0m
+INFO - 2023-10-25 14:40:08,541 - [mHTTP GET /admin/ 200 [0.04, 127.0.0.1:38018][0m
+INFO - 2023-10-25 14:40:08,568 - [36mHTTP GET /static/admin/css/dashboard.css 304 [0.00, 127.0.0.1:38018][0m
+INFO - 2023-10-25 14:40:08,663 - [36mHTTP GET /static/admin/img/icon-addlink.svg 304 [0.00, 127.0.0.1:38018][0m
+INFO - 2023-10-25 14:40:08,663 - [36mHTTP GET /static/admin/img/icon-changelink.svg 304 [0.00, 127.0.0.1:38024][0m
+INFO - 2023-10-25 14:40:10,204 - [mHTTP GET /admin/core/cryptocurrencypair/ 200 [0.19, 127.0.0.1:38024][0m
+INFO - 2023-10-25 14:40:10,236 - [mHTTP GET /static/admin/css/changelists.css 200 [0.01, 127.0.0.1:38024][0m
+INFO - 2023-10-25 14:40:10,267 - [mHTTP GET /static/admin/js/core.js 200 [0.03, 127.0.0.1:37986][0m
+INFO - 2023-10-25 14:40:10,270 - [mHTTP GET /static/admin/js/admin/RelatedObjectLookups.js 200 [0.03, 127.0.0.1:37976][0m
+INFO - 2023-10-25 14:40:10,271 - [mHTTP GET /static/admin/js/actions.js 200 [0.03, 127.0.0.1:45466][0m
+INFO - 2023-10-25 14:40:10,275 - [mHTTP GET /static/admin/js/vendor/jquery/jquery.js 200 [0.04, 127.0.0.1:38002][0m
+INFO - 2023-10-25 14:40:10,278 - [mHTTP GET /static/admin/js/urlify.js 200 [0.02, 127.0.0.1:38024][0m
+INFO - 2023-10-25 14:40:10,287 - [36mHTTP GET /static/admin/js/jquery.init.js 304 [0.01, 127.0.0.1:37976][0m
+INFO - 2023-10-25 14:40:10,292 - [36mHTTP GET /static/admin/js/prepopulate.js 304 [0.01, 127.0.0.1:45466][0m
+INFO - 2023-10-25 14:40:10,296 - [mHTTP GET /static/admin/js/vendor/xregexp/xregexp.js 200 [0.02, 127.0.0.1:37986][0m
+INFO - 2023-10-25 14:40:10,334 - [mHTTP GET /admin/jsi18n/ 200 [0.10, 127.0.0.1:38018][0m
+INFO - 2023-10-25 14:40:10,376 - [36mHTTP GET /static/admin/js/filters.js 304 [0.00, 127.0.0.1:38018][0m
+INFO - 2023-10-25 14:40:10,404 - [36mHTTP GET /static/admin/img/tooltag-add.svg 304 [0.00, 127.0.0.1:38018][0m
+INFO - 2023-10-25 14:40:13,136 - [mHTTP GET /admin/core/exchange/ 200 [0.04, 127.0.0.1:38018][0m
+INFO - 2023-10-25 14:40:13,201 - [mHTTP GET /admin/jsi18n/ 200 [0.03, 127.0.0.1:38018][0m
+INFO - 2023-10-25 14:40:16,786 - [mHTTP GET /admin/core/cryptocurrencypair/ 200 [0.14, 127.0.0.1:38018][0m
+INFO - 2023-10-25 14:40:16,873 - [mHTTP GET /admin/jsi18n/ 200 [0.06, 127.0.0.1:38018][0m
+INFO - 2023-10-25 14:40:38,069 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:40:39,195 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:40:42,802 - WebSocket HANDSHAKING /ws/getExchangeList/123 [127.0.0.1:38096]
+INFO - 2023-10-25 14:40:42,813 - WebSocket CONNECT /ws/getExchangeList/123 [127.0.0.1:38096]
+INFO - 2023-10-25 14:40:44,629 - WebSocket DISCONNECT /ws/getExchangeList/123 [127.0.0.1:38096]
+INFO - 2023-10-25 14:41:23,173 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:41:24,048 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:41:32,935 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:41:33,832 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:41:44,228 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:41:45,220 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:41:52,116 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:41:53,203 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:42:00,528 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:42:01,622 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:42:08,907 - WebSocket HANDSHAKING /ws/getExchangeList/123 [127.0.0.1:42558]
+INFO - 2023-10-25 14:42:08,916 - WebSocket CONNECT /ws/getExchangeList/123 [127.0.0.1:42558]
+INFO - 2023-10-25 14:42:10,065 - WebSocket DISCONNECT /ws/getExchangeList/123 [127.0.0.1:42558]
+INFO - 2023-10-25 14:42:23,711 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:42:24,648 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:43:10,490 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:43:11,402 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:43:20,444 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:43:21,313 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:43:25,082 - WebSocket HANDSHAKING /ws/getExchangeList/123 [127.0.0.1:59374]
+INFO - 2023-10-25 14:43:25,091 - WebSocket CONNECT /ws/getExchangeList/123 [127.0.0.1:59374]
+INFO - 2023-10-25 14:43:26,629 - WebSocket DISCONNECT /ws/getExchangeList/123 [127.0.0.1:59374]
+INFO - 2023-10-25 14:44:30,695 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:44:31,595 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:44:36,318 - WebSocket HANDSHAKING /ws/getExchangeList/123 [127.0.0.1:35172]
+INFO - 2023-10-25 14:44:36,328 - WebSocket CONNECT /ws/getExchangeList/123 [127.0.0.1:35172]
+INFO - 2023-10-25 14:44:38,047 - WebSocket DISCONNECT /ws/getExchangeList/123 [127.0.0.1:35172]
+INFO - 2023-10-25 14:45:33,753 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:45:34,658 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:46:15,295 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:46:16,149 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:46:19,217 - WebSocket HANDSHAKING /ws/getExchangeList/123 [127.0.0.1:43428]
+INFO - 2023-10-25 14:46:19,226 - WebSocket CONNECT /ws/getExchangeList/123 [127.0.0.1:43428]
+INFO - 2023-10-25 14:46:20,531 - WebSocket DISCONNECT /ws/getExchangeList/123 [127.0.0.1:43428]
+INFO - 2023-10-25 14:46:56,627 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:46:57,469 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:47:01,832 - WebSocket HANDSHAKING /ws/getExchangeList/123 [127.0.0.1:59612]
+INFO - 2023-10-25 14:47:01,834 - WebSocket CONNECT /ws/getExchangeList/123 [127.0.0.1:59612]
+INFO - 2023-10-25 14:47:02,779 - WebSocket DISCONNECT /ws/getExchangeList/123 [127.0.0.1:59612]
+INFO - 2023-10-25 14:50:09,062 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:50:09,867 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:56:02,571 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:56:03,641 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:56:07,417 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:56:08,367 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:56:21,225 - WebSocket HANDSHAKING /ws/getExchangeList/123 [127.0.0.1:46066]
+INFO - 2023-10-25 14:56:21,228 - WebSocket CONNECT /ws/getExchangeList/123 [127.0.0.1:46066]
+INFO - 2023-10-25 14:56:23,503 - WebSocket DISCONNECT /ws/getExchangeList/123 [127.0.0.1:46066]
+INFO - 2023-10-25 14:56:30,407 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:46602]
+INFO - 2023-10-25 14:56:30,412 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:46602]
+INFO - 2023-10-25 14:56:32,512 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:46602]
+INFO - 2023-10-25 14:58:42,676 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:58:43,669 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:58:54,942 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:58:55,754 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:59:07,126 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:48200]
+INFO - 2023-10-25 14:59:07,134 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:48200]
+INFO - 2023-10-25 14:59:25,597 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:59:26,560 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:59:29,358 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:50014]
+INFO - 2023-10-25 14:59:29,370 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:50014]
+INFO - 2023-10-25 14:59:30,886 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:50014]
+INFO - 2023-10-25 14:59:42,033 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:59:42,960 - Watching for file changes with StatReloader
+INFO - 2023-10-25 14:59:56,423 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 14:59:57,294 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:00:04,177 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:00:05,201 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:00:13,257 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:00:14,146 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:00:17,963 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:00:18,839 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:00:31,772 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:00:32,600 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:00:39,185 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:33808]
+INFO - 2023-10-25 15:00:39,191 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:33808]
+INFO - 2023-10-25 15:00:42,107 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:33808]
+INFO - 2023-10-25 15:01:03,181 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:01:04,050 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:01:11,720 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:43952]
+INFO - 2023-10-25 15:01:11,723 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:43952]
+INFO - 2023-10-25 15:01:12,577 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:43952]
+INFO - 2023-10-25 15:01:20,825 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:01:21,767 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:01:26,545 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:01:27,459 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:01:31,259 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:01:32,132 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:01:33,724 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:47232]
+INFO - 2023-10-25 15:01:33,734 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:47232]
+INFO - 2023-10-25 15:01:35,314 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:47232]
+INFO - 2023-10-25 15:03:24,398 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:03:25,478 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:03:30,302 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:03:31,099 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:03:35,027 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:57958]
+INFO - 2023-10-25 15:03:35,039 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:57958]
+INFO - 2023-10-25 15:03:35,487 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:57958]
+INFO - 2023-10-25 15:03:43,341 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:03:44,322 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:03:45,559 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:48838]
+INFO - 2023-10-25 15:03:45,562 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:48838]
+INFO - 2023-10-25 15:04:59,214 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:05:00,093 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:05:07,950 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:05:08,911 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:05:22,277 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:05:23,055 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:05:25,432 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:53490]
+INFO - 2023-10-25 15:05:25,441 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:53490]
+INFO - 2023-10-25 15:05:27,441 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:53490]
+INFO - 2023-10-25 15:05:40,612 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:05:41,417 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:05:46,563 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:41376]
+INFO - 2023-10-25 15:05:46,572 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:41376]
+INFO - 2023-10-25 15:05:47,911 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:41376]
+INFO - 2023-10-25 15:06:23,378 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:06:24,223 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:06:31,162 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:06:32,074 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:06:38,057 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:06:38,860 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:06:42,414 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:06:43,222 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:06:44,880 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:36110]
+INFO - 2023-10-25 15:06:44,889 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:36110]
+INFO - 2023-10-25 15:06:47,337 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:36110]
+INFO - 2023-10-25 15:08:48,982 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:08:49,756 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:09:13,529 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:09:14,366 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:09:20,395 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:09:21,265 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:09:29,078 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:09:30,046 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:09:36,818 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:09:37,627 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:09:52,992 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:09:53,904 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:10:30,550 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:10:31,332 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:10:38,528 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:39494]
+INFO - 2023-10-25 15:10:38,539 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:39494]
+INFO - 2023-10-25 15:10:39,575 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:39494]
+INFO - 2023-10-25 15:12:09,014 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:12:09,842 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:12:20,987 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:12:21,931 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:12:25,734 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:57150]
+INFO - 2023-10-25 15:12:25,752 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:57150]
+INFO - 2023-10-25 15:12:27,248 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:57150]
+INFO - 2023-10-25 15:12:49,220 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:12:50,039 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:13:04,189 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:13:05,101 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:13:20,572 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:13:21,480 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:13:31,679 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:13:35,103 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:58852]
+INFO - 2023-10-25 15:13:35,113 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:58852]
+INFO - 2023-10-25 15:13:36,313 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:58852]
+INFO - 2023-10-25 15:13:53,967 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:13:54,773 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:13:58,230 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:13:58,958 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:14:00,116 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:39798]
+INFO - 2023-10-25 15:14:00,122 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:39798]
+INFO - 2023-10-25 15:14:01,085 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:39798]
+INFO - 2023-10-25 15:14:28,723 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:14:29,617 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:14:32,197 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/models.py changed, reloading.
+INFO - 2023-10-25 15:14:33,071 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:14:36,401 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:40820]
+INFO - 2023-10-25 15:14:36,411 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:40820]
+INFO - 2023-10-25 15:14:37,712 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:40820]
+INFO - 2023-10-25 15:14:50,882 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:14:51,802 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:14:58,887 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:14:59,707 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:15:34,541 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:15:35,486 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:15:39,149 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:15:40,034 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:15:50,147 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:15:51,059 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:15:54,027 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:57774]
+INFO - 2023-10-25 15:15:54,035 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:57774]
+INFO - 2023-10-25 15:15:55,220 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:57774]
+INFO - 2023-10-25 15:16:11,783 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:16:12,702 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:17:19,950 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:17:20,747 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:17:28,594 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:17:29,537 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:17:42,873 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:17:43,754 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:17:49,754 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:17:50,711 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:17:58,958 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:17:59,829 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:18:04,699 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:18:05,397 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:18:10,595 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:54816]
+INFO - 2023-10-25 15:18:10,605 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:54816]
+INFO - 2023-10-25 15:18:11,707 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:54816]
+INFO - 2023-10-25 15:18:31,447 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:18:32,385 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:18:56,287 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:18:57,532 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:18:59,243 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:52574]
+INFO - 2023-10-25 15:18:59,254 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:52574]
+INFO - 2023-10-25 15:19:00,695 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:52574]
+INFO - 2023-10-25 15:19:12,725 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:19:13,658 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:19:17,364 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:19:18,144 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:19:21,774 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:19:22,654 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:20:59,531 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:21:00,305 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:21:05,491 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:39756]
+INFO - 2023-10-25 15:21:05,502 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:39756]
+INFO - 2023-10-25 15:21:17,926 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:21:18,891 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:21:20,411 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:45412]
+INFO - 2023-10-25 15:21:20,419 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:45412]
+INFO - 2023-10-25 15:21:24,601 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:21:25,434 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:21:34,226 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/core/consumers.py changed, reloading.
+INFO - 2023-10-25 15:21:35,165 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:22:10,288 - Watching for file changes with StatReloader
+INFO - 2023-10-25 15:34:19,122 - Watching for file changes with StatReloader
+WARNING - 2023-10-25 15:34:23,289 - Not Found: /
+WARNING - 2023-10-25 15:34:23,293 - [33mHTTP GET / 404 [0.07, 127.0.0.1:59914][0m
+WARNING - 2023-10-25 15:34:23,535 - Not Found: /favicon.ico
+WARNING - 2023-10-25 15:34:23,536 - [33mHTTP GET /favicon.ico 404 [0.02, 127.0.0.1:59914][0m
+WARNING - 2023-10-25 15:34:25,923 - Not Found: /
+WARNING - 2023-10-25 15:34:25,924 - [33mHTTP GET / 404 [0.02, 127.0.0.1:59914][0m
+WARNING - 2023-10-25 15:34:26,457 - Not Found: /
+WARNING - 2023-10-25 15:34:26,458 - [33mHTTP GET / 404 [0.01, 127.0.0.1:59914][0m
+INFO - 2023-10-25 15:34:28,714 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:59916]
+INFO - 2023-10-25 15:34:28,720 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:59916]
+INFO - 2023-10-25 15:34:32,292 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:59916]
+INFO - 2023-10-25 15:34:54,518 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:53822]
+INFO - 2023-10-25 15:34:54,523 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:53822]
+INFO - 2023-10-25 15:53:04,629 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:53706]
+INFO - 2023-10-25 15:53:04,634 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:53706]
+INFO - 2023-10-25 15:53:04,750 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:53706]
+INFO - 2023-10-25 15:53:26,301 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:46624]
+INFO - 2023-10-25 15:53:26,303 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:46624]
+INFO - 2023-10-25 15:53:26,549 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:46624]
+INFO - 2023-10-25 15:54:29,153 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:53202]
+INFO - 2023-10-25 15:54:29,158 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:53202]
+INFO - 2023-10-25 15:54:29,398 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:53202]
+INFO - 2023-10-25 16:07:59,756 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:42056]
+INFO - 2023-10-25 16:07:59,757 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:42056]
+INFO - 2023-10-25 16:08:00,019 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:42056]
+INFO - 2023-10-25 16:31:59,300 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:40926]
+INFO - 2023-10-25 16:31:59,303 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:40926]
+INFO - 2023-10-25 16:31:59,546 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:40926]
+INFO - 2023-10-25 16:32:25,117 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:46606]
+INFO - 2023-10-25 16:32:25,121 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:46606]
+INFO - 2023-10-25 16:32:25,363 - WebSocket DISCONNECT /ws/getExchangeList/exchanges [127.0.0.1:46606]
+INFO - 2023-10-25 17:24:22,436 - /home/python-25/Desktop/crypto-arbitrage-bot/cryptoArbitrage/cryptoArbitrage/asgi.py changed, reloading.
+INFO - 2023-10-25 17:24:25,276 - Watching for file changes with StatReloader
+WARNING - 2023-10-25 17:59:10,339 - Not Found: /
+WARNING - 2023-10-25 17:59:10,348 - [33mHTTP GET / 404 [0.32, 127.0.0.1:43066][0m
+INFO - 2023-10-25 19:26:35,696 - [mHTTP GET /admin/core/cryptocurrencypair/ 200 [0.54, 127.0.0.1:41020][0m
+INFO - 2023-10-25 19:26:35,827 - [mHTTP GET /admin/jsi18n/ 200 [0.06, 127.0.0.1:41020][0m
+INFO - 2023-10-25 19:26:40,363 - WebSocket HANDSHAKING /ws/getExchangeList/exchanges [127.0.0.1:58276]
+INFO - 2023-10-25 19:26:40,372 - WebSocket CONNECT /ws/getExchangeList/exchanges [127.0.0.1:58276]
